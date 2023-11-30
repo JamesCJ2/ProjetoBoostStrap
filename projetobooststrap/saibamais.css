@@ -1,0 +1,29 @@
+.navbar-brand img
+{
+width: 50px;
+height: 50px;
+border-radius: 100%;
+}
+
+
+
+
+
+.navbar-brand 
+{
+    color: white;
+    -webkit-text-stroke: 1px rgb(255, 7, 99, 1);
+    font-family: Agbalumo;
+    font-size:xx-large;
+}
+
+
+#centerr
+{
+    position: relative;
+    left: 300px;
+    width: 700px;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+}
